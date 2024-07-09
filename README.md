@@ -31,4 +31,5 @@ SmartBuildEco is licensed under the MIT License. See [LICENSE](LICENSE) for deta
 ## Contact
 
 For more information, please contact us at [kosasih.corp@smartbuildeco.com](mailto:kosasih.corp@smartbuildeco.com).
-```This README.md provides a brief introduction to the SmartBuildEco platform, instructions for getting started, information on contributing, and contact details. It also includes a license for the project.
+
+```This README.md provides a brief introduction to the SmartBuildEco platform, instructions for getting started, information on contributing, and contact details. It also includes a license for the project.```
